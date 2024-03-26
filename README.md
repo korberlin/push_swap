@@ -56,9 +56,9 @@ Ready to dive into the world of `push_swap`? Here's how to get started:
 
 1. Clone this repository to begin your adventure.
 2. Enter the project's domain by navigating into its directory.
-3. Unleash the power of `push_swap` by compiling with `make`.
+3. Get push_swap ready to go by running make.
 4. Challenge the program with a set of integers and watch as it unveils the path to order.
-5. Marvel at the efficiency and elegance of the sorting process, benchmarked by the number of moves.
+5. Be amazed by how smoothly and smartly everything gets sorted, all measured by the moves it takes.
 
 Embark on this journey with me, and let's explore the fascinating world of algorithms and optimization together. Through push_swap, we not only learn to sort but also to think differently about problem-solving and efficiency. 🚀
 
