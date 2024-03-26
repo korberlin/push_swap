@@ -1,6 +1,6 @@
 # Push_Swap
 
-<img src="png/printf.png" alt="ft_printf Logo" width="100" height="100">
+<img src="png/push_swap.png" alt="push_swap Logo" width="100" height="100">
 
 Welcome, fellow coders and curious minds! 🌟 I'm thrilled to share with you my journey through the `push_swap` project at 42 Berlin, a challenge that not only tests our grit but also deepens our understanding of sorting algorithms, data structures, and the beauty of optimized problem-solving in C.
 
