@@ -41,11 +41,12 @@ Ever curious about how well my algorithm performs? Here's a glimpse into the eff
 
 | Input Size | Instructions |
 |------------|--------------|
-| 100        | 900          |
-| 500        | 5000         |
-| 500        | 5000         |
-| 500        | 5000         |
-| 500        | 5000         |
+| 5          | 9            |
+| 20         | 133          |
+| 100        | 913          |
+| 500        | 5765         |
+| 1000       | 12780        |
+| 10000      | 179148       |
 
 ---
 
